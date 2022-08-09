@@ -1,7 +1,7 @@
-# Script Naza (V1-Websocket)
+# Script TipsyDev (V1-Websocket)
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By Naza <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By TipsyDev <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -52,10 +52,6 @@ systemctl restart wg-quick@wg0
   ```
 
 ## Info :
-
- ## Script for Sell Only. Contact owner on Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
-
- ## For Buy Script : Contact Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
  
@@ -114,14 +110,6 @@ systemctl restart wg-quick@wg0
    - Full Orders For Various Services
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Telegram
-
-[V-Code](https://t.me/Virtual_NW)
-
-[Group V-Code](https://t.me/+HtRm-s0MLBgxODZl)
-
-[Channel V-Code](https://t.me/Virtual_NW_Channel)
 
 ## Credit :
 
